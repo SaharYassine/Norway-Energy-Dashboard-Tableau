@@ -4,6 +4,6 @@ This Tableau workbook visualizes energy production, consumption, and prices in t
 
 Data saved in the excel file was gathered by one of our ADS students from ENTSO-E Transparency Platform.
 
-Enjoy creating more views and dashboards.
-
 ![image](https://github.com/user-attachments/assets/bfc51541-f904-44a7-b83d-943f9bc9cf81)
+
+Enjoy creating more views and dashboards.
